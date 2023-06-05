@@ -12,10 +12,12 @@
 
     align-items: center;
   }
-  .sec-nav {
-    display: none;
-   
+  .sec-nav{
+    display: flex;
+    width: 189%;
+    
   }
+
   .mediam{
     width: 149%;
   }
