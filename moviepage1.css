@@ -1,0 +1,35 @@
+@media (max-width: 500px) {
+    
+  .suku {
+
+    height: 50%;
+    width: 121%;
+  }
+  
+  .mnav {
+    
+    display: flex;
+
+    align-items: center;
+  }
+  .sec-nav {
+    display: none;
+   
+  }
+  .mediam{
+    width: 149%;
+  }
+  .main img{
+    width:130% ;
+}
+.container{
+    width:130% ;
+}
+.premiere{
+    width: 123%;
+}
+.footer{
+     width: 119%; 
+}
+}
+

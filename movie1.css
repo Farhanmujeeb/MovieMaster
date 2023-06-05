@@ -1,0 +1,20 @@
+@media (max-width: 500px) {
+  .sec-nav {
+    display: none;
+  }
+  .mnav {
+    display: flex;
+
+    align-items: center;
+  }
+
+  .main img {
+    width: 195%;
+  }
+  .card{
+    width: 180%;
+  }
+  .footer{
+    width: 178%;
+  }
+}
